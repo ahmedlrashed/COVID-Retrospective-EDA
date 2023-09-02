@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of CoVID-19 Patients Dataset by Our World in Data.org
+# Exploratory Data Analysis of CoVID-19 Mortality Dataset by Our World in Data.org
 
 ![](figs/covid19.png)
 
