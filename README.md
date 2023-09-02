@@ -1,6 +1,8 @@
 # Exploratory Data Analysis of CoVID-19 Patients Dataset by Our World in Data.org
 
-Dataset sourced form the following [link](https://ourworldindata.org/covid-deaths)
+![](figs/covid19.png)
+
+Dataset sourced form the following [link](https://ourworldindata.org/covid-deaths).
 
 Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
 
@@ -31,9 +33,8 @@ SQL views were created in Azure Data Studio for subsequent data visualization, u
 
 * Azure Data Studio version 1.45.1
 * Jupyter Notebook VS Code: 1.79.2
-* Jupyter Notebook VS Code: 1.79.2
 
 ### Author
 Ahmed Lotfy Rashed
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-rashed-12495a20/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-rashed-12495a20/).
