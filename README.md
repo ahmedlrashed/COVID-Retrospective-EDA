@@ -28,6 +28,7 @@ From this EDA, we can answer questions like:-
 ### Data Visualization
 
 SQL views were created in Azure Data Studio for subsequent data visualization, using Tableau Public.
+[Dashboard](https://public.tableau.com/app/profile/ahmed.rashed1337/viz/COVIDRetrospectiveEDA/COVIDEDADashboard)
 
 ### Requirements
 
