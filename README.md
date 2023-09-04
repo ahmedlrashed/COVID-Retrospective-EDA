@@ -21,14 +21,55 @@ Looking back at the data is necessary in order to examine the long-term effecgs 
 ### Analysis
 
 From this EDA, we can answer questions like:-
-* Which are the 5 most affected countries in the world?
-* Which country has the highest death rate?
-* Which countries had the fastest accumulation of vaccinations?
+* Which countries had the highest infection rates?
+* Which countries had the highest death rates and/or death counts?
+* Which countries had the highest vaccination rates?
+
+From preliminary data inspection, we discovered that the countries with hightest infection per Capita were as follows:
+Cyprus
+San Marino
+Brunei
+Austria
+South Korea
+Faeroe Islands
+Slovenia
+Gibraltar
+Martinique
+Andorra
+
+Similarly, the countries with hightest death rate per Capita were as follows:
+Peru
+Bulgaria
+Bosnia and Herzegovina
+Hungary
+North Macedonia
+Georgia
+Croatia
+Slovenia
+Montenegro
+Czechia
+
+What these two lists have in common is they are smaller, more densely populated countries. This makes sense because the infection and death rate is directly proportional to how quickly the virus spreads. Smaller nations have less infrastructure to promote and enforce social distancing, and at the same time, higher population density means the virus will have many avenues to jump from host to host, affecting large swathes of community in a short time.
+
+When we investigated the countries with the hightest death counts (irrespective of population), we find that the US tops the chart with more casualties than the next two countries combined!
+United States
+Brazil
+India
+Russia
+Mexico
+United Kingdom
+Peru
+Italy
+Germany
+France
+
+This unenviable result is due to both the cultural resistance to social distancing, the mixed messages and policies of the federal vs state governments, and the presence of several high-density cities that were hot-spots of contagion.
+
+When we investigated vaccination rates, there was not much difference among the top 10 populous nations. However, there was a slight tendency for autocratic countries like China, Brazil, and Russia to have a faster rate of vaccinations whereas more liberal countries like the United States, Indonesia, and Mexico to have a more gradual accumulation of vaccinations.
 
 ### Data Visualization
 
-SQL views were created in Azure Data Studio for subsequent data visualization, using Tableau Public.
-[Dashboard](https://public.tableau.com/app/profile/ahmed.rashed1337/viz/COVIDRetrospectiveEDA/COVIDEDADashboard)
+SQL views were created in Azure Data Studio for subsequent data visualization, using Tableau Public. Link to data dashboard can be found at this [link](https://public.tableau.com/app/profile/ahmed.rashed1337/viz/COVIDRetrospectiveEDA/COVIDEDADashboard).
 
 ### Requirements
 
