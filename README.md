@@ -4,7 +4,9 @@
 
 Dataset sourced form the following [link](https://ourworldindata.org/covid-deaths).
 
-Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
+Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, Tableau Desktop
+
+## TLDR Tableau Dashboard [link](https://public.tableau.com/app/profile/ahmed.rashed1337/viz/COVIDRetrospectiveEDA/COVIDEDADashboard)
 
 ### Tools and Methods
 
