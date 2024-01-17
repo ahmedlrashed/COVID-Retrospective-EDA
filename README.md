@@ -16,13 +16,11 @@ Although ADS does not have the full suite of database management functionality f
 
 ### Overview
 
-Governments across the globe have taken different measures to handle the Covid-19 outbreak since it began in early 2020. Countries implemented various policies and restrictive measures to prevent transmission of the virus, reduce the impacts of the outbreak (i.e., individual, social, and economic), and provide effective control measures.
-
-Looking back at the data is necessary in order to examine the long-term effecgs of the pandemic and the responses to it. Retrospective analysis will allow us to determine which government intervention policies were most, and least, effective. In this way, we can learn from our past and support best practices and policies in the future.
+Governments across the globe took different measures to handle the Covid-19 pandemic in 2020. Countries implemented various restrictive measures to prevent the transmission of the virus and reduce the impact of the outbreak. Looking back at the data helps us evaluate which government intervention policies were effective. In this way, we can learn from our past and support best practices and policies in the future.
 
 ### Analysis
 
-From this EDA, we can answer questions like:-
+In this EDA, we will answer the following questions:-
 * Which countries had the highest infection rates?
 * Which countries had the highest death rates and/or death counts?
 * Which countries had the highest vaccination rates?
