@@ -16,13 +16,14 @@ Although ADS does not have the full suite of database management functionality f
 
 ### Overview
 
-Governments across the globe took different measures to handle the Covid-19 pandemic in 2020. Countries implemented various restrictive measures to prevent the transmission of the virus and reduce the impact of the outbreak. Looking back at the data helps us evaluate which government intervention policies were effective. In this way, we can learn from our past and support best practices and policies in the future.
+Governments across the globe took different measures to handle the Covid-19 pandemic in 2020. Countries implemented various restrictive measures to prevent the transmission of the virus and to reduce the impact of the outbreak. Looking back at this data can help us evaluate which government intervention policies were effective. In this way, we can learn from our past and support best practices and policies in the future.
 
 ### Analysis
 
 In this EDA, we will answer the following questions:-
-* Which countries had the highest infection rates?
-* Which countries had the highest death rates and/or death counts?
+* Which countries had the highest infection rates per capita?
+* Which countries had the highest death rates per capita?
+* Which countries had the highest total death counts?
 * Which countries had the highest vaccination rates?
 
 From preliminary data inspection, we discovered that the countries with hightest infection per Capita were as follows:
@@ -49,9 +50,9 @@ Slovenia
 Montenegro
 Czechia
 
-What these two lists have in common is they are smaller, more densely populated countries. This makes sense because the infection and death rate is directly proportional to how quickly the virus spreads. Smaller nations have less infrastructure to promote and enforce social distancing, and at the same time, higher population density means the virus will have many avenues to jump from host to host, affecting large swathes of community in a short time.
+What these two lists have in common is they are smaller, more densely populated countries. This may be a result of smaller nations having less infrastructure to promote and enforce social distancing. Also, it may also be a result of higher population density means the virus will have many avenues to spread from host to host, affecting many people in a short time.
 
-When we investigated the countries with the hightest death counts (irrespective of population), we find that the US tops the chart with more casualties than the next two countries combined!
+When we investigated the countries with the highest total death counts (ignoring population), we find that the US tops the chart with casualties comparable to the next two countries combined!
 United States
 Brazil
 India
@@ -63,7 +64,7 @@ Italy
 Germany
 France
 
-This unenviable result is due to both the cultural resistance to social distancing, the mixed messages and policies of the federal vs state governments, and the presence of several high-density cities that were hot-spots of contagion.
+This unenviable result could have been due to both the cultural resistance to social distancing, the mixed messages and policies of the federal vs state governments, or the presence of several high-density cities that were hot-spots of contagion.
 
 When we investigated vaccination rates, there was not much difference among the top 10 populous nations. However, there was a slight tendency for autocratic countries like China, Brazil, and Russia to have a faster rate of vaccinations whereas more liberal countries like the United States, Indonesia, and Mexico to have a more gradual accumulation of vaccinations.
 
